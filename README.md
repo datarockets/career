@@ -7,6 +7,8 @@ We make products for our clients.
   * [People First](#people-first)
   * [Work as a team with clients](#work-as-a-team-with-clients)
 * [Our Clients](#our-clients)
+* [Work With Us](#work-with-us)
+  * [As Experienced Ruby Developer](/jobs/experienced-ruby-developer.md)
 
 ## How We Work
 
@@ -54,3 +56,8 @@ datarockets builds web and mobile applications for startups and businesses. We l
 
 We work with clients for years.
 
+## Work With Us
+
+Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about your experience in development, show examples of your code. Tell us what you would like to see in a company you'd love to work at, what is important for you.
+
+* [Experienced Ruby Developer](/jobs/experienced-ruby-developer.md)
