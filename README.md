@@ -24,6 +24,7 @@ It's important to be pro-active and inform everyone about things you do and obst
 
 We believe that it's much easier to work together when you know your teammates personally, not only their work skills. It is easier to ask someone for help quickly if you were discussing a recent movie premier just yesterday.
 
+![datarockets check-in](images/check-in.png)
 In order to make people know each other better we have weekly check-ins — an all hands one hour long call where we share what happened with us during the last week: last book we read, a new place we visited, family event we had.
 
 We have an office in Minsk, Belarus which works mostly as a co-working space for us.
