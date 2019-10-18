@@ -1,3 +1,5 @@
+datarockets is on Pivorak on Friday, October 18. Come to us to chat. Win an Amazon gift card by completing our questionary: [https://forms.gle/bFRFMsSPknWtgoTX7](https://forms.gle/bFRFMsSPknWtgoTX7).
+
 [![datarockets team on January 2019](images/team-january-2019.jpg)](https://www.instagram.com/datarockets/)
 
 We make products for our clients.
