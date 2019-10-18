@@ -35,12 +35,14 @@ Twice a year we organize a party and bring everyone to it. We spend time togethe
 
 ### People First
 
+![Screenshot on which team lead says it's ok to make mistakes](images/mistakes-are-ok.png)
 People make mistakes, nobody is perfect. Nobody gets punished or gets blamed for making a mistake at datarockets. What's important is to learn from mistakes we make.
 
 We understand that "shit happens". Some days we just feel off, procrastinate instead of working, can't get anything done. We promote to take such days off and we never allow to work late hours or on weekend to make up.
 
 Working on a weekend is always a bad option. We never agree when clients ask for overtime work. We offer to use our creativity to find out how we can lauch on time w/o overtime: cut unimportant tasks from scope, do something by hand in the beginning instead of automation, etc.
 
+![Screenshot where CEO says developer shouldn't work on weekend](images/no-work-on-weekend.png)
 It is not allowed to work on weekend or overtime at datarockets.
 
 ### Work as a team with clients
