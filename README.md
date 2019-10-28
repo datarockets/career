@@ -10,7 +10,7 @@ We make products for our clients.
 * [Work With Us](#work-with-us)
   * [As Experienced Ruby Developer](/jobs/experienced-ruby-developer.md)
 
-Ask us anything — create an issue in this repository with your questions and we'll unswer.
+Ask us anything — create an issue in this repository with your questions and we'll answer.
 
 ## How We Work
 
