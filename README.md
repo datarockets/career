@@ -8,7 +8,6 @@ We make products for our clients.
   * [Work as a team with clients](#work-as-a-team-with-clients)
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
-  * [As Experienced Ruby Developer](/jobs/experienced-ruby-developer.md)
 
 Ask us anything — create an issue in this repository with your questions and we'll answer.
 
@@ -64,5 +63,3 @@ We work with clients for years.
 ## Work With Us
 
 Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about your experience in development, show examples of your code. Tell us what you would like to see in a company you'd love to work at, what is important for you.
-
-* [Experienced Ruby Developer](/jobs/experienced-ruby-developer.md)
