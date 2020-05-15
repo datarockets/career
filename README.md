@@ -8,6 +8,8 @@ We build products for our clients.
   * [Work as a team with clients](#work-as-a-team-with-clients)
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
+  * [Interview Process](#interview-process)
+  * [Jobs](#jobs)
 
 Ask us anything — create an issue in this repository with your questions and we'll answer.
 
@@ -61,5 +63,42 @@ datarockets builds web and mobile applications for startups and businesses. We l
 We work with clients for years.
 
 ## Work With Us
+
+### Interview Process
+
+We have 4-steps interview process.
+
+If you understand that we don't match feel free to stop and provide your feedback at any time to save your and our time. We would do the same from our side.
+
+#### 1. Email conversation
+
+The first step is a conversation via email. We ask questions about previous projects, tasks, and achievements. We chat about education, courses, books, articles, and blogs. We would love to discuss application architecture, libraries, frameworks, and code snippets. We touch teams, colleagues, and clients.
+
+We're not looking for correct answers or for a candidate to agree with our views on particular topics. Sometimes the best answer is "I don't know". We love responses like "I don't know but I think ...". We're looking for a great conversation, the one we might have on a conference afterparty.
+
+Bring your questions to the conversation as well.
+
+We chat over email instead of a video or voice chat for several reasons:
+- It helps us understand candidate's writing skills. We work remotely and written communications are a huge part of our work.
+- This way we can share information withing the whole interviewing team asynchronously so we don't need to ask the same questions during video-chats on the next steps.
+- Candidates have enough time to think about the response and find information.
+
+We chat in English.
+
+Please maintain the same subject during the conversation and don't exclude participants (use reply-all).
+
+We usually answer within 24 hours except for the weekend.
+
+#### 2. Video-chat with CTO
+
+Expect to have deep conversations about technologies and development experience. There are usually a problem-solving discusions, related to technologies and people.
+
+#### 3 & 4. Video-chats with datarockers
+
+Every datarocker has its own style and own plan for interviewing people. At this step candidates may expect to do some pair-programming and real world project problem solving.
+
+### Jobs
+
+Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
 Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about your experience in development, show examples of your code. Tell us what you would like to see in a company you'd love to work at, what is important for you.
