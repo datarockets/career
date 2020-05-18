@@ -30,8 +30,6 @@ We believe that it's much easier to work together when you know your teammates p
 ![datarockets check-in](images/check-in.png)
 In order to make people know each other better we have weekly check-ins — an all hands one hour long call where we share what happened with us during the last week: last book we read, a new place we visited, family event we had.
 
-We have an office in Minsk, Belarus which works mostly as a co-working space for us.
-
 Twice a year we organize a party and bring everyone to it. We spend time together and chat a lot. That's very interesting time since we have people from different cultures. You can learn how traditional wedding parties look like in Vietnam and how to cook lagman.
 
 ### People First
