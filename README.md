@@ -1,3 +1,5 @@
+🔥 We're looking for an [experienced Node.js developer](jobs/experienced-nodejs-developer.md).
+
 [![datarockets team on January 2019](images/team-january-2019.jpg)](https://www.instagram.com/datarockets/)
 
 We build products for our clients.
@@ -8,8 +10,9 @@ We build products for our clients.
   * [Work as a team with clients](#work-as-a-team-with-clients)
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
-  * [Interview Process](#interview-process)
   * [Jobs](#jobs)
+    * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
+  * [Interview Process](#interview-process)
 
 Ask us anything — create an issue in this repository with your questions and we'll answer.
 
@@ -62,6 +65,14 @@ We work with clients for years.
 
 ## Work With Us
 
+### Jobs
+
+- [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
+
+Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
+
+Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about your experience in development, show examples of your code. Tell us what you would like to see in a company you'd love to work at, what is important for you.
+
 ### Interview Process
 
 We have 4-steps interview process.
@@ -94,9 +105,3 @@ Expect to have deep conversations about technologies and development experience.
 #### 3 & 4. Video-chats with datarockers
 
 Every datarocker has its own style and own plan for interviewing people. At this step candidates may expect to do some pair-programming and real world project problem solving.
-
-### Jobs
-
-Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
-
-Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about your experience in development, show examples of your code. Tell us what you would like to see in a company you'd love to work at, what is important for you.
