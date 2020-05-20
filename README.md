@@ -1,5 +1,7 @@
 🔥 We're looking for an [experienced Node.js developer](jobs/experienced-nodejs-developer.md).
 
+📅 We attend [Pivorak Conf](https://pivorak.com/) on May 22, meet us at zoom-afterpary.
+
 [![datarockets team on January 2019](images/team-january-2019.jpg)](https://www.instagram.com/datarockets/)
 
 We build products for our clients.
