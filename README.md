@@ -96,8 +96,6 @@ We chat in English.
 
 Please maintain the same subject during the conversation and don't exclude participants (use reply-all).
 
-We usually answer within 24 hours except for the weekend.
-
 #### 2. Video-chat with CTO
 
 Expect to have deep conversations about technologies and development experience. There are usually a problem-solving discusions, related to technologies and people.
