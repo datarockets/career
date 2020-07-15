@@ -1,5 +1,3 @@
-🔥 We're looking for an [experienced Node.js developer](jobs/experienced-nodejs-developer.md).
-
 [![datarockets team on January 2019](images/team-january-2019.jpg)](https://www.instagram.com/datarockets/)
 
 We build products for our clients.
@@ -11,7 +9,6 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-    * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
   * [Interview Process](#interview-process)
 
 Ask us anything — create an issue in this repository with your questions and we'll answer.
@@ -66,8 +63,6 @@ We work with clients for years.
 ## Work With Us
 
 ### Jobs
-
-- [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
