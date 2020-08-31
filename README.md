@@ -1,3 +1,5 @@
+🔥 We're looking for [experienced ruby developer](jobs/experienced-ruby-developer.md).
+
 [![datarockets team on January 2019](images/team-january-2019.jpg)](https://www.instagram.com/datarockets/)
 
 We build products for our clients.
@@ -63,6 +65,8 @@ We work with clients for years.
 ## Work With Us
 
 ### Jobs
+
+- [Experienced Ruby Developer](jobs/experienced-ruby-developer.md)
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
