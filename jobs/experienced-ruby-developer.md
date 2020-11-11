@@ -14,7 +14,7 @@ Salary 𝚫: 20k—30k USD.
 - Experience working on multi-stack projects: knowledge of modern JavaScript and UI libraries.
 - Good knowledge of the stack we use: web, http protocol, networks.
 - Advanced level of working with tools: Linux, CLI tools, git.
-- Good written and spoken English: almost all the communications techincal and non-technical are in English.
+- Good written and spoken English: almost all the communications technical and non-technical are in English.
 
 Would be great if you have experience with:
 
