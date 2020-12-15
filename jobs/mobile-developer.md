@@ -7,8 +7,7 @@ acts independently and proactively.
 
 ## How the job looks
 
-- We have jobs both for Android and iOS developers, experienced (or ready to improve their skills) in React Native. We work with Kotlin + RxJava + Dagger for Android
-and Swift + RxSwift for iOS. We also use React Native and going to use it more
+- We have jobs both for Android and iOS developers, experienced (or ready to improve their skills) in React Native. We primarily use Kotlin for Android and Swift for iOS, yet certain Java or Objective-C knowledge might be useful
 - You will work with a team of developers (3-5 people) on the current project developing new features
 - Usually our projects last for about 1,5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time
 - Salary 𝚫: 24k—48k USD
@@ -19,20 +18,20 @@ Slack, Trello, Notion. We also us Holacracy framework for organizational governa
 
 ## How a good candidate looks
 
-- You have solid experience in anything we use - Kotlin, Swift or React Native
-- You want to work with React Native, even if you have not much experience with it
-- ***(? tech stuff- like more details about frameworks and technologies we would like to see in background ?)***
+- You have solid experience either in Android or iOS
+- You wish to work with React Native, even if you have not much experience in it
+- ***(? tech stuff- like more details about frameworks and technologies we would like to see in background - 2-3 points ?)***
 - Your English skills allow you to feel comfortable communicating in it (verbally and written) the whole working day
 - You know how important it is to communicate with the team and inform others about what you are doing, so you stick to open and frequent communication
 - Learning process is an important part of your professional activities
 - Teamwork is not an abstract word for you, but a set of principles and agreements you follow
-- You value the quality of the code 
+- You value high-quality maintainable code
 
 
 ## What you'll definitely need to work with us
 
-- Interest to work with our stack
-- ***(? tech strictly needed stuff?)***
+- Experience in writing native mobile apps for Android or iOS
+- Experience in working with React Native or the desire to learn it
 - English knowledge to communicate with colleagues & clients
 - Communication skills to collaborate remotely
 - Independence and initiative - we won't control how you work, but we expect the work to be done
