@@ -12,7 +12,6 @@ We build products for our clients.
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
     * [Experienced Ruby Developer](jobs/experienced-ruby-developer.md)
-    * [Curious Frontend Developer](jobs/curious-frontend-developer.md)
   * [Interview Process](#interview-process)
 
 Ask us anything — create an issue in this repository with your questions and we'll answer.
