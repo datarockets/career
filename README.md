@@ -69,7 +69,6 @@ We work with clients for years.
 ### Jobs
 
 - [Experienced Ruby Developer](jobs/experienced-ruby-developer.md)
-- [Curious Frontend Developer](jobs/curious-frontend-developer.md)
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
