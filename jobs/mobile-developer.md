@@ -17,6 +17,10 @@ We are looking for experienced and initiative Mobile Developers to grow our team
 
 - You have solid experience either in Android or iOS.
 - You wish to work with React Native, even if you have not much experience in it.
+- You have an opinion on how to architect the app and can compare MVP with MVVM.
+- You know how different components of mobile OSes work: push notifications, keystore & keychain, background tasks, GPS api, etc.
+- Have experience releasing apps to stores and understand the whole process from building to signing to publishing.
+- You value high-quality maintainable code: know how organize codebase the way when something changes in API we don't need to rewrite a lot of code across the app.
 - Have experience writing end-to-end and unit tests and maintain high coverage.
 - Your English skills allow you to feel comfortable communicating in it (verbally and written) the whole working day.
 - You know how important it is to communicate with the team and inform others about what you are doing, so you stick to open and frequent communication.
