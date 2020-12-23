@@ -7,7 +7,7 @@ We are looking for experienced and initiative Mobile Developers to grow our team
 
 - We have jobs both for Android and iOS developers, experienced (or interested to learn) in React Native. We primarily use Kotlin for Android and Swift for iOS, yet certain Java or Objective-C knowledge might be useful.
 - You will work with a team of developers (3-5 people) on the current project developing new features.
-- Usually our projects last for about 1,5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time.
+- Usually our projects last for about 1.5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time.
 - Salary 𝚫: 24k—48k USD.
 - For development we usually use Kanban or similar process in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use [Holacracy](https://en.wikipedia.org/wiki/Holacracy) for organizational governance.
 - Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
@@ -54,5 +54,4 @@ We build mobile and web apps for our clients. See [case studies](https://dataroc
 
 ## How to apply 💌
 
-In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV. In the message tell us about you and your experience,
-share some examples of your code.
+In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV. In the message tell us about you and your experience, share some examples of your code.
