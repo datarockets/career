@@ -34,7 +34,7 @@ We are looking for experienced and initiative Mobile Developers to grow our team
 - Experience in working with React Native or desire to learn it.
 - English knowledge to communicate with colleagues and clients.
 - Communication skills to collaborate remotely.
-- Independence and initiative - we won't control how you work, but we expect the work to be done.
+- Self-sufficiency and initiative - we won't control how you work, but we expect the work to be done.
 
 ## About us
 
