@@ -56,5 +56,5 @@ We build mobile and web apps for our clients. See [case studies](https://dataroc
 
 In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV. In the message tell us about you and your experience, share some examples of your code. Also we are curious about your thoughts on the questions below, please, add your answers to the cover letter. 
 
-- How would you organize you code so when a business logic changes we don't have to rewrite code related to UI? Can you share an example from your practice?
+- How would you organize your code so when a business logic changes we don't have to rewrite code related to UI? Can you share an example from your practice?
 - How do you write tests: which practices do you use and which you avoid? What kind of tests do you write and why?
