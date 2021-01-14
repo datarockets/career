@@ -81,6 +81,8 @@ We have 4-steps interview process.
 
 If you understand that we don't match feel free to stop and provide your feedback at any time to save your and our time. We would do the same from our side.
 
+Also, we record the interviews in order to have the opportunity to improve the process and come back to the topics we discussed. We can send the recording after the interview to the candidate by request. We do not record interviews if the candidate asked us not to do it.  
+
 #### 1. Email conversation
 
 The first step is a conversation via email. We ask questions about previous projects, tasks, and achievements. We chat about education, courses, books, articles, and blogs. We would love to discuss application architecture, libraries, frameworks, and code snippets. We touch teams, colleagues, and clients.
