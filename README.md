@@ -11,8 +11,8 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-    * [Experienced Ruby Developer](jobs/experienced-ruby-developer.md)
     * [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
+    * [Experienced Ruby Developer](jobs/experienced-ruby-developer.md)
   * [Interview Process](#interview-process)
 
 Ask us anything — create an issue in this repository with your questions and we'll answer.
@@ -77,33 +77,30 @@ Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about 
 
 ### Interview Process
 
-We have 4-steps interview process.
+- We have 3-steps interview process. During the process we discuss different things: education, courses, books, articles, and blogs; application architecture, libraries, frameworks, and code snippets; we touch teams, colleagues, and clients. Basically, we are curious about your interests and way of thinking. And we are happy to share ours.
 
-If you understand that we don't match feel free to stop and provide your feedback at any time to save your and our time. We would do the same from our side.
+- We're not looking for correct answers or for a candidate to agree with our views on particular topics. Sometimes the best answer is "I don't know". We love responses like "I don't know but I think ...". We're looking for a great conversation, the one we might have on a conference afterparty.
 
-Also, we record the interviews in order to have the opportunity to improve the process and come back to the topics we discussed. We can send the recording after the interview to the candidate by request. We do not record interviews if the candidate asked us not to do it.  
+- Also, we love questions. Don't forget to bring them to the conversation as well.
 
-#### 1. Email conversation
+- We chat in English.
 
-The first step is a conversation via email. We ask questions about previous projects, tasks, and achievements. We chat about education, courses, books, articles, and blogs. We would love to discuss application architecture, libraries, frameworks, and code snippets. We touch teams, colleagues, and clients.
+- Please maintain the same subject during the conversation and don't exclude participants (use reply-all).
 
-We're not looking for correct answers or for a candidate to agree with our views on particular topics. Sometimes the best answer is "I don't know". We love responses like "I don't know but I think ...". We're looking for a great conversation, the one we might have on a conference afterparty.
+- If you understand that we don't match feel free to stop and provide your feedback at any time to save your and our time. We would do the same from our side.
 
-Bring your questions to the conversation as well.
+- We record the interviews in order to have the opportunity to improve the process and come back to the topics we discussed. We can send the recording after the interview to the candidate by request. We do not record interviews if the candidate asked us not to do it.  
 
-We chat over email instead of a video or voice chat for several reasons:
-- It helps us understand candidate's writing skills. We work remotely and written communications are a huge part of our work.
-- This way we can share information withing the whole interviewing team asynchronously so we don't need to ask the same questions during video-chats on the next steps.
-- Candidates have enough time to think about the response and find information.
+#### 1. Conversation with HR
 
-We chat in English.
+We chat on email or other social/professional network and then we chat on video-interview. We ask questions about previous projects, current stage of your development, interests, preferencies. We share more about us and answer you first questions.
 
-Please maintain the same subject during the conversation and don't exclude participants (use reply-all).
+#### 2. Video-chats with datarockers (Technical part)
 
-#### 2. Video-chat with CTO
+Every datarocker has its own style and own plan for interviewing people. At this step candidates may expect to do some pair-programming and real world project problem solving.
+
+#### 2. Video-chat with CTO (Overall part)
 
 Expect to have deep conversations about technologies and development experience. There are usually a problem-solving discusions, related to technologies and people.
 
-#### 3 & 4. Video-chats with datarockers
 
-Every datarocker has its own style and own plan for interviewing people. At this step candidates may expect to do some pair-programming and real world project problem solving.
