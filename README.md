@@ -1,6 +1,6 @@
 🔥 We're looking for [Mobile Developer (Android/iOS)](jobs/mobile-developer.md).
 
-[![datarockets team selebrating 2021 New Year](images/datarockets New Year Zoom Party 2021.gif)](https://www.instagram.com/datarockets/)
+[datarockets team selebrating 2021 New Year](images/datarockets New Year Zoom Party 2021.gif)](https://www.instagram.com/datarockets/)
 
 We build products for our clients.
 
@@ -75,7 +75,7 @@ Sometimes we don't have open job positions but it's still worth to get in contac
 
 Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about your experience in development, show examples of your code. Tell us what you would like to see in a company you'd love to work at, what is important for you.
 
-### Interview Process
+## Interview Process
 
 - We have 3-steps interview process. During the process we discuss different things: education, courses, books, articles, and blogs; application architecture, libraries, frameworks, and code snippets; we touch teams, colleagues, and clients. Basically, we are curious about your interests and way of thinking. And we are happy to share ours.
 
@@ -91,15 +91,15 @@ Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about 
 
 - We record the interviews in order to have the opportunity to improve the process and come back to the topics we discussed. We can send the recording after the interview to the candidate by request. We do not record interviews if the candidate asked us not to do it.  
 
-#### 1. Conversation with HR
+### 1. Conversation with HR
 
 We chat on email or other social/professional network and then we chat on video-interview. We ask questions about previous projects, current stage of your development, interests, preferencies. We share more about us and answer you first questions.
 
-#### 2. Video-chats with datarockers (Technical part)
+### 2. Video-chats with datarockers (Technical part)
 
 Every datarocker has its own style and own plan for interviewing people. At this step candidates may expect to do some pair-programming and real world project problem solving.
 
-#### 2. Video-chat with CTO (Overall part)
+### 2. Video-chat with CTO (Overall part)
 
 Expect to have deep conversations about technologies and development experience. There are usually a problem-solving discusions, related to technologies and people.
 
