@@ -1,6 +1,6 @@
 🔥 We're looking for [Mobile Developer (Android/iOS)](jobs/mobile-developer.md).
 
-![datarockets team selebrating 2021 New Year](images/datarockets New Year Zoom Party 2021.gif)](https://www.instagram.com/datarockets/)
+[![datarockets team selebrating 2021 New Year](https://github.com/datarockets/career/blob/master/images/datarockets%20New%20Year%20Zoom%20Party%202021.gif)](https://www.instagram.com/datarockets/)
 
 We build products for our clients.
 
