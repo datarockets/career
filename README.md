@@ -1,4 +1,4 @@
-🔥 We're looking for [experienced ruby developer](jobs/experienced-ruby-developer.md).
+🔥 We're looking for [Mobile Developer (Android/iOS)](jobs/mobile-developer.md).
 
 [![datarockets team on January 2019](images/team-january-2019.jpg)](https://www.instagram.com/datarockets/)
 
