@@ -51,6 +51,7 @@ We build mobile and web apps for our clients. See [case studies](https://dataroc
 - 32 paid days off per year - you can use them for vacations, occasional days off, and public holidays, only workdays count.
 - Full coverage of sick leaves.
 - 200 USD per year for medical expenses.
+- 500 USD per year for home office equipment.
 
 ## How to apply 💌
 
