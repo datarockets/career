@@ -2,8 +2,15 @@
 
 We seek a middle-level frontend developer to grow our team. We want to work with someone who communicates openly and actively, explores technologies (a11y, performance optimization, PWA) and looks for better ways to improve user experience and solve problems.
 
-Salary 𝚫: 20k—30k USD.
+## About the job
 
+- We are not looking for a developer for some specific project, rather than a person to join our company and then we will form a team for future or current projects.
+- You might work with our internal projects at first.
+- Salary 𝚫: 20k—30k USD.
+- For client projects, we work in teams of 2-5 developers.
+- For development we usually use Kanban or similar processes in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
+- Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
+- You'll have colleagues all around the globe, variety of channels in Slack like #animal-therapy, #cooking, #ihateremotework and remote team spirit.
 
 ## What we're looking for
 
@@ -15,6 +22,7 @@ Salary 𝚫: 20k—30k USD.
 - Initiative to speak up and code a web page for small screens when we have a design for desktop version only.
 - Advanced level of working with tools: DevTools, CLI tools, git.
 - Good written and spoken English: almost all the communications technical and non-technical are in English.
+- Natural desire to connect with people and good quality of communication (inform others, participate in discussions, raise issues). It is important for us.
 
 ## About us
 
