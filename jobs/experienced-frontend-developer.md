@@ -16,24 +16,28 @@ Salary 𝚫: 20k—30k USD.
 - Advanced level of working with tools: DevTools, CLI tools, git.
 - Good written and spoken English: almost all the communications technical and non-technical are in English.
 
+## About us
 
-## About datarockets
+[![datarockets team](https://github.com/datarockets/career/blob/master/images/photo%20from%20New%20Year%20party.3.jpg)](https://www.instagram.com/datarockets/)
 
 We work remotely [#remote](https://github.com/datarockets/career#remote) and know how to do it well.
 
 We care about people [#people-first](https://github.com/datarockets/career#people-first) and projects [#work-as-a-team-with-clients](https://github.com/datarockets/career#work-as-a-team-with-clients).
 
-
-## Our Projects
-
 We build mobile and web apps for our clients. See [case studies](https://datarockets.com/case-studies/). Usually we work with clients for years and work as a single team.
 
+## Perks
 
-## Apply 💌
+- 50% compensation for self-development activities: courses, conferences, books, educational platforms, English, sports.
+- Remote work and flexible schedule (actually no schedule at all - you decide when you work).
+- 32 paid days off per year - you can use them for vacations, occasional days off, and public holidays, only workdays count.
+- Full coverage of sick leaves.
+- 200 USD per year for medical expenses.
+- 500 USD per year for home office equipment.
 
-In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com).
+## How to apply 💌
 
-In addition to the cover letter and CV, please answer on these questions:
+In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV. In the message tell us about you and your experience, share some examples of your code. Also we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
 
 1. How do you organize storing data on frontend? What are pros and cons of your approach?
 2. What makes a good user experience in your opinion, what is important?
