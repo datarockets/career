@@ -4,7 +4,7 @@ We're looking for a senior-level web developer with experience in Ruby and Ruby 
 
 ## About the job
 
-- We are not looking for a developer for some specific project, rather then a person to join our company and them we will form a team for future or current projects.
+- We are not looking for a developer for some specific project, rather than a person to join our company and then we will form a team for future or current projects.
 - We expect you to take on the role of the person with the most experience in the team, able to guide others and share knowledge.
 - You will work with a team of junior/middle developers (2-4 people).
 - Salary 𝚫: 20k—40k USD.
