@@ -27,6 +27,8 @@ It will be a plus if you keen to become a Team Lead or already have this experie
 
 ## About us
 
+[![datarockets team](https://github.com/datarockets/career/blob/master/images/photo%20from%20New%20Year%20party.3.jpg)](https://www.instagram.com/datarockets/)
+
 We work remotely [#remote](https://github.com/datarockets/career#remote) and know how to do it well.
 
 We care about people [#people-first](https://github.com/datarockets/career#people-first) and projects [#work-as-a-team-with-clients](https://github.com/datarockets/career#work-as-a-team-with-clients).
