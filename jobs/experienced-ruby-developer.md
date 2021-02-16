@@ -1,8 +1,8 @@
-# Experienced Ruby Developer
+# Senior Ruby Developer
 
-We're looking for middle-level web developer with experience in Ruby and Ruby on Rails. We would love to work with a pro-active person, someone who not only solve tasks but suggests improvements on codebase level as well as on product and company level, someone who automate things and shares knowledge within the team on meetups and in chats.
+We're looking for a senior-level web developer with experience in Ruby and Ruby on Rails. We would love to work with a pro-active person, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. <b> We are open for a person with ambitions to fill in the Team Lead role. </b>
 
-Salary 𝚫: 20k—30k USD.
+Salary 𝚫: 20k—40k USD.
 
 ## What we're looking for
 
