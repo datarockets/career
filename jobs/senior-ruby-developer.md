@@ -1,6 +1,6 @@
 # Senior Ruby Developer
 
-We're looking for a senior-level web developer with experience in Ruby and Ruby on Rails. We would love to work with a pro-active person, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. <b> We are open for a person with ambitions to fill in the Team Lead role. </b>
+We're looking for a senior-level web developer with experience in Ruby and Ruby on Rails. We would love to work with a pro-active person, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
 
 ## About the job
 
@@ -20,7 +20,7 @@ We're looking for a senior-level web developer with experience in Ruby and Ruby 
 - Will constantly suggest innovations on the project
 - Release own projects
 - Understand yourself: have good habits, know how to be productive and how to rest
-- Have a knowledge of English on the level which allows you to feel comfortable communicating in it (verbally and written) the whole working day.
+- Have knowledge of English on the level which allows you to feel comfortable communicating in it (verbally and written) the whole working day.
 - Know how important it is to communicate with the team and inform others about what you are doing, so you stick to open and frequent communication. It is important for us.
 
 It will be a plus if you keen to become a Team Lead or already have this experience and know what skills are necessary to be a good Team Lead.
@@ -46,7 +46,7 @@ We build mobile and web apps for our clients. See [case studies](https://dataroc
 
 ## How to apply 💌
 
-In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV. In the message tell us about you and your experience, share some examples of your code. Also we are curious about your thoughts on the questions below, please, add your answers to the cover letter. 
+In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV. In the message tell us about you and your experience, share some examples of your code. Also, we are curious about your thoughts on the questions below, please, add your answers to the cover letter. 
 
 - How do you organize business logic in your app?
 - What would you do if you suspect that a gem doesn't work as you expected? How would you debug this?
