@@ -62,7 +62,7 @@ Sometimes clients visit us (in different cities) and sometimes we visit them.
 
 datarockets builds web and mobile applications for startups and businesses. We launch first version of product to confirm that idea is viable and help with existing product development to increase number of users and profit.
 
-We work with clients for years.
+We work with clients for years. See [case studies](https://datarockets.com/case-studies/) in order to learn more about the projects we work with.
 
 ## Work With Us
 
