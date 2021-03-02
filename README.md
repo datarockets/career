@@ -12,7 +12,7 @@ We build products for our clients.
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
     * [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
-    * [Experienced Ruby Developer](jobs/experienced-ruby-developer.md)
+    * [Senior Ruby Developer](jobs/senior-ruby-developer.md)
     * [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
   * [Interview Process](#interview-process)
 
@@ -63,13 +63,13 @@ Sometimes clients visit us (in different cities) and sometimes we visit them.
 
 datarockets builds web and mobile applications for startups and businesses. We launch first version of product to confirm that idea is viable and help with existing product development to increase number of users and profit.
 
-We work with clients for years.
+We work with clients for years. See [case studies](https://datarockets.com/case-studies/) in order to learn more about the projects we work with.
 
 ## Work With Us
 
 ### Jobs
 
-- [Experienced Ruby Developer](jobs/experienced-ruby-developer.md)
+- [Senior Ruby Developer](jobs/senior-ruby-developer.md)
 - [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
 - [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
 
