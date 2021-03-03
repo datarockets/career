@@ -1,13 +1,12 @@
 # Senior Ruby Developer
 
-We're looking for a senior-level web developer with experience in Ruby and Ruby on Rails. We would love to work with a pro-active person, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
+We're looking for a pro-active senior-level web developer with experience in Ruby and Ruby on Rails, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
 
 ## About the job
 
-- We are not looking for a developer for some specific project, rather than a person to join our company and then we will form a team for future or current projects.
+- You'll work on a project with a team of junior/middle developers (2-4 people).
 - We expect you to take on the role of the person with the most experience in the team, able to guide others and share knowledge.
-- You will work with a team of junior/middle developers (2-4 people).
-- Salary 𝚫: 20k—40k USD.
+- Salary 𝚫: 30k—54k USD.
 - For development we usually use Kanban or similar process in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
 - Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
 - You'll have colleagues all around the globe, variety of channels in Slack like #animal-therapy, #cooking, #ihateremotework and remote team spirit.
@@ -18,7 +17,7 @@ We're looking for a senior-level web developer with experience in Ruby and Ruby 
 - Have experience working with different kind of teams and projects
 - Research new technologies and promote them inside the team (new libraries, tools, techniques: refactoring, debugging, etc.)
 - Will constantly suggest innovations on the project
-- Release own projects
+- It will be a plus if you released own projects
 - Understand yourself: have good habits, know how to be productive and how to rest
 - Have knowledge of English on the level which allows you to feel comfortable communicating in it (verbally and written) the whole working day.
 - Know how important it is to communicate with the team and inform others about what you are doing, so you stick to open and frequent communication. It is important for us.
