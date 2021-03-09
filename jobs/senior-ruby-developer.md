@@ -4,7 +4,12 @@ We're looking for a pro-active senior-level web developer with experience in Rub
 
 ## About the job
 
-- You'll work on a project with a team of junior/middle developers (2-4 people).
+- You'll work on a project with a team of junior/middle developers (2-4 people). Below is the list of technologies we use for this project. You'll have the opportunity to work with them while working with us. It's fine if you don't know some technologies from the list, but we expect you to learn them after you start to work. Here is the list:
+  - Ruby on Rails / GraphQL / PostgreSQL / ElasticSearch
+  - RSpec / Minitest / Capybara
+  - JavaScript (ES6 and beyond) / React / React Relay / CSS Modules
+  - Flow Types / Webpack / Jest
+  - Docker / Kubernetes / AWS
 - We expect you to take on the role of the person with the most experience in the team, able to guide others and share knowledge.
 - Salary 𝚫: 30k—54k USD.
 - For development we usually use Kanban or similar process in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
