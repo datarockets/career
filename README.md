@@ -1,4 +1,4 @@
-🔥🔥🔥 We're looking for [Senior Ruby Developer](jobs/senior-ruby-developer.md)
+🔥🔥🔥 We're looking for [Middle/Senior Ruby Developer](jobs/senior-ruby-developer.md)
 
 [![datarockets team selebrating 2021 New Year](https://github.com/datarockets/career/blob/master/images/datarockets%20New%20Year%20Zoom%20Party%202021.gif)](https://www.instagram.com/datarockets/)
 
@@ -11,7 +11,7 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-    * 🔥 [Senior Ruby Developer](jobs/senior-ruby-developer.md)
+    * 🔥 [Middle/Senior Ruby Developer](jobs/senior-ruby-developer.md)
     * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
     * [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
   * [Interview Process](#interview-process)
@@ -69,7 +69,7 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 
 ### Jobs
 
-- [Senior Ruby Developer](jobs/senior-ruby-developer.md)
+- [Middle/Senior Ruby Developer](jobs/senior-ruby-developer.md)
 - [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
 - [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
 
