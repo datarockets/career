@@ -1,6 +1,6 @@
-# Senior Ruby Developer
+# Middle/Senior Ruby Developer
 
-We're looking for a pro-active senior-level web developer with experience in Ruby and Ruby on Rails, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. Check out the [video](https://www.youtube.com/watch?v=kc1jcy00AJ0&feature=youtu.be) with Andrew (who is currently responsible for this role), where he tells about the project and role itself. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
+We're looking for a pro-active middle/senior-level web developer with experience in Ruby and Ruby on Rails, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. Check out the [video](https://www.youtube.com/watch?v=kc1jcy00AJ0&feature=youtu.be) with Andrew (who is currently responsible for this role), where he tells about the project and role itself. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
 
 ## About the job
 
@@ -10,7 +10,6 @@ We're looking for a pro-active senior-level web developer with experience in Rub
   - JavaScript (ES6 and beyond) / React / React Relay / CSS Modules
   - Flow Types / Webpack / Jest
   - Docker / Kubernetes / AWS
-- We expect you to take on the role of the person with the most experience in the team, able to guide others and share knowledge.
 - Salary 𝚫: 30k—54k USD.
 - For development we usually use Kanban or similar process in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
 - Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
