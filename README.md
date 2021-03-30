@@ -1,4 +1,4 @@
-🔥🔥🔥 We're looking for [Middle/Senior Ruby Developer](jobs/senior-ruby-developer.md)
+🔥🔥 We're looking for [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
 
 [![datarockets team selebrating 2021 New Year](https://github.com/datarockets/career/blob/master/images/datarockets%20New%20Year%20Zoom%20Party%202021.gif)](https://www.instagram.com/datarockets/)
 
