@@ -11,8 +11,9 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-    * 🔥 [Middle/Senior Ruby Developer](jobs/senior-ruby-developer.md)
+    * 🔥 [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
     * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
+    * [Middle/Senior Ruby Developer](jobs/senior-ruby-developer.md)
     * [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
   * [Interview Process](#interview-process)
 
@@ -69,8 +70,9 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 
 ### Jobs
 
-- [Middle/Senior Ruby Developer](jobs/senior-ruby-developer.md)
+- [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
 - [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
+- [Middle/Senior Ruby Developer](jobs/senior-ruby-developer.md)
 - [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
