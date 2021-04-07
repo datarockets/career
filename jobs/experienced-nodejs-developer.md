@@ -49,3 +49,5 @@ In order to apply send us a message to [join@datarockets.com](mailto:join@dataro
 - What web frameworks did you use? How do you like them?
 
 Please, share some examples of your code (e.g. share your GitHub profile) as well.
+
+Check out our [interview process](https://github.com/datarockets/career#interview-process) for more information.
