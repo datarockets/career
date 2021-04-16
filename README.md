@@ -10,7 +10,7 @@ We build products for our clients.
   * [Work as a team with clients](#work-as-a-team-with-clients)
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
-  * [Apprenticeship](apprenticeship.md)
+  * [Apprenticeship](#apprenticeship)
   * [Jobs](#jobs)
     * 🔥 [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
     * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
