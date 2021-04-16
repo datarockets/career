@@ -10,6 +10,7 @@ We build products for our clients.
   * [Work as a team with clients](#work-as-a-team-with-clients)
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
+  * [Apprenticeship](apprenticeship.md)
   * [Jobs](#jobs)
     * 🔥 [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
     * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
@@ -68,6 +69,10 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 
 ## Work With Us
 
+### Apprenticeship
+
+We're happy to work with junior and intern developers: [apprenticeship](apprenticeship.md).
+
 ### Jobs
 
 - [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
@@ -93,7 +98,7 @@ Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about 
 
 - If you understand that we don't match feel free to stop and provide your feedback at any time to save your and our time. We would do the same from our side.
 
-- We record the interviews in order to have the opportunity to improve the process and come back to the topics we discussed. We can send the recording after the interview to the candidate by request. We do not record interviews if the candidate asked us not to do it.  
+- We record the interviews in order to have the opportunity to improve the process and come back to the topics we discussed. We can send the recording after the interview to the candidate by request. We do not record interviews if the candidate asked us not to do it.
 
 ### 1. Conversation with HR
 
