@@ -1,8 +1,8 @@
 # Apprenticeship
 
-We're happy to work with junior and intern developers. For many of our colleagues, datarockets is the first company in their career.
+At datarockets we're happy to work with junior and intern developers when we have available resources. For many of our colleagues, datarockets is the first company in their career.
 
-## Requirements
+## Here's what do you need in order to work with us
 
 * You're pro-active and have ideas for projects you want to build.
 * You read books and articles about computers, engineering, business, management, economics, and people.
@@ -13,5 +13,7 @@ We're happy to work with junior and intern developers. For many of our colleague
 
 ## How To Apply
 
-* Send us a link to your GitHub profile that has repositories with your code.
+In order to apply send us a message to join@datarockets.com with your CV. In the message, please share the following:
+
+* Your GitHub profile that has repositories with your code or any other source of your code.
 * Tell us something you learned just recently and what you think about it (maybe it's something unexpected or something that impressed you for some reasons).
