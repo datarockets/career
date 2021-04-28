@@ -15,6 +15,7 @@ We build products for our clients.
     * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
     * [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md)
     * [Experienced Frontend Developer](jobs/experienced-ruby-developer.md)
+  * [Apprenticeship](#apprenticeship)
   * [Interview Process](#interview-process)
 
 Ask us anything — create an issue in this repository with your questions and we'll answer.
@@ -79,6 +80,10 @@ Sometimes we don't have open job positions but it's still worth to get in contac
 
 Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about your experience in development, show examples of your code. Tell us what you would like to see in a company you'd love to work at, what is important for you.
 
+### Apprenticeship
+
+At datarockets we're happy to work with junior and intern developers. Please check [Apprenticeship](apprenticeship.md) to find more details and see how you can work with us if you are a junior.
+
 ## Interview Process
 
 - We have 3-steps interview process. During the process we discuss different things: education, courses, books, articles, and blogs; application architecture, libraries, frameworks, and code snippets; we touch teams, colleagues, and clients. Basically, we are curious about your interests and way of thinking. And we are happy to share ours.
@@ -93,7 +98,7 @@ Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about 
 
 - If you understand that we don't match feel free to stop and provide your feedback at any time to save your and our time. We would do the same from our side.
 
-- We record the interviews in order to have the opportunity to improve the process and come back to the topics we discussed. We can send the recording after the interview to the candidate by request. We do not record interviews if the candidate asked us not to do it.  
+- We record the interviews in order to have the opportunity to improve the process and come back to the topics we discussed. We can send the recording after the interview to the candidate by request. We do not record interviews if the candidate asked us not to do it.
 
 ### 1. Conversation with HR
 
