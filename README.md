@@ -1,4 +1,4 @@
-🔥🔥 We're looking for [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
+🔥🔥 We're looking for [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
 
 [![datarockets team selebrating 2021 New Year](https://github.com/datarockets/career/blob/master/images/datarockets%20New%20Year%20Zoom%20Party%202021.gif)](https://www.instagram.com/datarockets/)
 
@@ -11,9 +11,9 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
+    * 🔥 [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
     * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
-    * [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
-    * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
+    <!--- * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) --->  
     <!--- * [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) --->   
   * [Apprenticeship](#apprenticeship)
   * [Interview Process](#interview-process)
@@ -24,7 +24,7 @@ Ask us anything — create an issue in this repository with your questions and w
 
 ### Remote
 
-🇧🇾 🇷🇺 🇨🇦 🇻🇳 🇰🇿 🇺🇿 🇲🇩 🇦🇲 🇵🇱 ([add yours](#work-with-us))
+🇧🇾 🇨🇦 🇵🇱 🇷🇺 🇲🇩 🇦🇲 🇰🇿 🇺🇿 🇬🇪 🇺🇦 🇦🇿 [add yours](#work-with-us))
 
 We work remotely. It's a common comment that it requires a lot of self-discipline to work remotely. We believe it is more about good processes and habits.
 
@@ -35,7 +35,7 @@ It's important to be pro-active and inform everyone about things you do and obst
 We believe that it's much easier to work together when you know your teammates personally, not only their work skills. It is easier to ask someone for help quickly if you were discussing a recent movie premier just yesterday.
 
 ![datarockets check-in](images/check-in.png)
-In order to make people know each other better we have weekly check-ins — an all hands one hour long call where we share what happened with us during the last week: last book we read, a new place we visited, family event we had.
+In order to make people know each other better we have biweekly check-ins — an all hands one hour long call where we share what happened with us during the last week: last book we read, a new place we visited, family event we had. datarockers gather in small groups by interest like tech meetups or bookclub. You can find some of our activities on youtube, like [bookclub](https://www.youtube.com/playlist?list=PLXylrdLh4cnDxvdJigtYWqQvIW4yARbOX).
 
 Twice a year we organize a party and bring everyone to it. We spend time together and chat a lot. That's very interesting time since we have people from different cultures. You can learn how traditional wedding parties look like in Vietnam and how to cook lagman.
 
@@ -71,9 +71,9 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 
 ### Jobs
 
-- [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
 - [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
-- [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)
+- [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
+ <!--- * - [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) --->
  <!--- * [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) --->
 
 
