@@ -14,7 +14,7 @@ We build products for our clients.
     * 🔥 [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
     * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
     * [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) 
-    <!--- * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) --->  
+    * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md)  
      
   * [Apprenticeship](#apprenticeship)
   * [Interview Process](#interview-process)
