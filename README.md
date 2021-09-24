@@ -73,10 +73,10 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 ### Jobs
 
 - [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
+- [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) 
 - [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
  <!--- * - [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) --->
- <!--- * [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) --->
-
+ 
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
