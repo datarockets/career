@@ -7,7 +7,7 @@ We're looking for a pro-active middle-level web developer with experience in Rub
 - You will work with a team of developers (3-5 people) on the current project developing new features.
 - Usually, our projects last for about 1.5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time.
 - Salary 𝚫: 20k—42k USD.
-- For development we usually use Kanban or similar process in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
+- For development we usually use Kanban or similar process in Trello, Pivotal or Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
 - Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
 - You'll have colleagues all around the globe, variety of channels in Slack like #animal-therapy, #cooking, #ihateremotework and remote team spirit.
 
