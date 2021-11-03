@@ -11,6 +11,7 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
+    * 🔥 [Sales & Account Manager](jobs/sales-account-manager.md)
     * 🔥 [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) 
     * 🔥 [Experienced Frontend Developer](jobs/experienced-frontend-developer.md) 
     * [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
