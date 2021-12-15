@@ -19,6 +19,8 @@ We build products for our clients.
     
   * [Apprenticeship](#apprenticeship)
   * [Interview Process](#interview-process)
+  * [FAQ](#FAQ)
+  
 
 Ask us anything — create an issue in this repository with your questions and we'll answer.
 
@@ -114,5 +116,36 @@ Every datarocker has its own style and own plan for interviewing people. At this
 ### 3. Video-chat with CTO (Overall part)
 
 Expect to have deep conversations about technologies and development experience. There are usually a problem-solving discusions, related to technologies and people.
+
+
+## FAQ 
+
+### - I want to become Team Lead. Is there any career path for that?
+
+Definitely, we would love to work with people who want to take responsibility for projects and teams. We won't put a newcomer to a team leader role at the beginning but during our work together we keep in mind career goals and try to give me challenges that help people to grow in desired direction. So we can envision something like this: the newcomer starts as an individual contributor, solve tasks on the project, when the person feels confident enough we'd expect from them to give more and more contribution to processes: be pro-active, suggest tech improvements, suggest team and processes improvements, then they might start discuss deliveries and take part in planning, then start helping teammates with their careers. You kind of need to convince us that you might be a person we can rely on and that's how you become a team leader.
+
+### - Do we have a project manager?
+
+No, it depends on the project. Sometimes our clients manage the development team on their side - mostly in cases when we work as a dedicated team with their in-house team. When the client is a tech person himself, only a lead developer/team lead may be required from our side to lead the dev team. Whereas, our CEO/CTO/Project manager will still cover organizational/payment/feedback questions. So each case is specific. Lately, our PM was covering 3 out of 5 ongoing projects.
+
+### - Who is responsible for managing tasks between the team members?
+
+Project manager/lead developer/client himself. Depends on the client, project complexity and the team size.
+
+### - Who is responsible for the communication with a client within the team?
+
+High-level communication happens with our CEO/CTO/Project manager or a crisis-manager. Development-related communication is transparent and involves the whole team. We work with clients as a single team and help to build products, not just writing code. Therefore, our developers are self-sufficient developers who can speak to the client directly, clarify questions and suggest their ideas on how to make a product better. So the communication happens openly and all team members participate in it. Plus, as we are a Holacracy-driven organization, on each project we have roles such as facilitator, rep link, circle lead, etc. that are distributed among the team members and help us to have a stable work and communication process.
+
+### - Which methodology do you follow?
+
+At datarockets, we never followed one methodology strictly. We mix them and take useful practices from all approaches. Also every project is unique. Usually the planning goes together with the client and developers where we discuss the priority of the tasks and come up with the list of tasks for an certain period of time (week/2 weeks/etc - depending on the client). Most importantly is that developers take part in these call, they share their opinions and possible estimates. We never make decisions about the scope of work and the deadlines without the transparent discussion with devs. Also, our clients and devs know that if something doesn’t go as planned, we always discuss it together and find ways what we can do in this situation. This all sounds like Agile.
+
+
+### - Do the developers work on support tasks?
+
+We only work full time on the projects, so if the project needs support for a couple of hours a week, we don’t do this. When delivering the final tasks we make sure that the tests are written and the app is stable. After the end of the main project, if the client collects a list of tasks for a full iteration/sprint/whatever - either new features or agrees for refactoring, we allocate 2 our engineers who worked on this project before to work full-time and complete the additional iteration. Of course, if the developers are busy on another project, the client will wait until they finish the current one.
+
+
+
 
 
