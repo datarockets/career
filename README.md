@@ -1,4 +1,4 @@
-🔥🔥 We're looking for [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
+
 
 [![datarockets team selebrating 2021 New Year](https://github.com/datarockets/career/blob/master/images/datarockets%20New%20Year%20Zoom%20Party%202021.gif)](https://www.instagram.com/datarockets/)
 
@@ -12,9 +12,9 @@ We build products for our clients.
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
     * 🔥 [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) 
-    * 🔥 [Experienced Frontend Developer](jobs/experienced-frontend-developer.md) 
-    * [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
-    <!--- * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) ---> 
+    * 🔥 Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
+    * 🔥 Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) 
+    * [Experienced Frontend Developer](jobs/experienced-frontend-developer.md) 
     <!--- * 🔥 [Sales & Account Manager](jobs/sales-account-manager.md) ---> 
     
   * [Apprenticeship](#apprenticeship)
@@ -78,7 +78,7 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 - [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
 - [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) 
 - [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
- <!--- * - [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) --->
+- [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) 
  
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
