@@ -113,7 +113,7 @@ We chat on email or other social/professional network and then we chat on video-
 
 Every datarocker has its own style and own plan for interviewing people. At this step candidates may expect to do some pair-programming and real world project problem solving.
 
-### 3. Video-chat with CTO (Overall part)
+### 3. Video-chat with the vacancy owner (Overall part)
 
 Expect to have deep conversations about technologies and development experience. There are usually a problem-solving discusions, related to technologies and people.
 
