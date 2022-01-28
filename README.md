@@ -11,7 +11,7 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-    * 🔥 [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) 
+    * 🔥 [Ruby Developer (Middle)](jobs/ruby/experienced-ruby-developer.md)
     * 🔥 [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) 
     * [Experienced Frontend Developer](jobs/experienced-frontend-developer.md) 
     <!--- * 🔥 [Sales & Account Manager](jobs/sales-account-manager.md) ---> 
@@ -76,7 +76,7 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 ### Jobs
 
 - [Experienced Frontend Developer](jobs/experienced-frontend-developer.md)
-- [Ruby Developer (Middle)](jobs/experienced-ruby-developer.md) 
+- [Ruby Developer (Middle)](jobs/ruby/experienced-ruby-developer.md)
 - [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) 
  <!--- [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)---> 
  
