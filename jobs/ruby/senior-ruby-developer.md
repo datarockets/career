@@ -10,7 +10,7 @@ We're looking for a pro-active middle/senior-level web developer with experience
   - JavaScript (ES6 and beyond) / React / React Relay / CSS Modules
   - Flow Types / Webpack / Jest
   - Docker / Kubernetes / AWS
-- Salary 𝚫: 30k—54k USD.
+- Salary 𝚫: 2500-4500USD.
 - For development we usually use Kanban or similar process in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
 - Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
 - You'll have colleagues all around the globe, variety of channels in Slack like #animal-therapy, #cooking, #ihateremotework and remote team spirit.
