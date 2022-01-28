@@ -1,17 +1,13 @@
 # Senior Ruby Developer
 
-We're looking for a pro-active senior-level web developer with experience in Ruby and Ruby on Rails, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. Check out the [video](https://www.youtube.com/watch?v=kc1jcy00AJ0&feature=youtu.be) with Andrew (who is currently responsible for this role), where he tells about the project and role itself. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
+We're looking for a pro-active senior-level web developer with experience in Ruby and Ruby on Rails, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
 
 ## About the job
 
-- You'll work on a project with a team of junior/middle developers (2-4 people). Below is the list of technologies we use for this project. You'll have the opportunity to work with them while working with us. It's fine if you don't know some technologies from the list, but we expect you to learn them after you start to work. Here is the list:
-  - Ruby on Rails / GraphQL / PostgreSQL / ElasticSearch
-  - RSpec / Minitest / Capybara
-  - JavaScript (ES6 and beyond) / React / React Relay / CSS Modules
-  - Flow Types / Webpack / Jest
-  - Docker / Kubernetes / AWS
 - Salary 𝚫: 2500-4500USD.
-- For development we usually use Kanban or similar process in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
+- You will work with a team of developers (3-5 people) on the current project developing new features.
+- Usually, our projects last for about 1.5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time.
+- For development we usually use Kanban or similar process in Trello, Pivotal or Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
 - Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
 - You'll have colleagues all around the globe, variety of channels in Slack like #animal-therapy, #cooking, #ihateremotework and remote team spirit.
 
