@@ -13,6 +13,7 @@ We're looking for a pro-active middle-level web developer with experience in Rub
 
 ## We expect that you
 
+- Share our values ([en](https://datarockets.com/blog/company/datarockets-codex-core-values/), [ru](https://docs.google.com/document/d/1DojRoGnl-J0Ku0B9tjK_-HUMbKQDPoueoYr645dYA-4/edit)) – it's very important.
 - Good knowledge of Ruby: OOP, meta-programming, common patterns.
 - Advanced knowledge of Ruby on Rails: advanced ActiveRecord, CLI and generators, i18n, complex forms and controllers, security features.
 - Knowledge of architecture patterns: different ways to organize business logic, state machines, API versioning, background jobs, caching, authorization.

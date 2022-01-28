@@ -17,6 +17,7 @@ We're looking for a pro-active middle/senior-level web developer with experience
 
 ## We expect that you
 
+- Share our values ([en](https://datarockets.com/blog/company/datarockets-codex-core-values/), [ru](https://docs.google.com/document/d/1DojRoGnl-J0Ku0B9tjK_-HUMbKQDPoueoYr645dYA-4/edit)) – it's very important
 - Can design a whole system of application
 - Have experience working with different kind of teams and projects
 - Research new technologies and promote them inside the team (new libraries, tools, techniques: refactoring, debugging, etc.)

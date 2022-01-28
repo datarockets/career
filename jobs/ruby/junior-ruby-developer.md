@@ -13,6 +13,7 @@ We're looking for a junior-level web developer with experience in Ruby and Ruby 
 
 ## We expect that you
 
+- Share our values ([en](https://datarockets.com/blog/company/datarockets-codex-core-values/), [ru](https://docs.google.com/document/d/1DojRoGnl-J0Ku0B9tjK_-HUMbKQDPoueoYr645dYA-4/edit)) – it's very important.
 - Have experience working on projects. You know approaches and patterns of writing maintainable code.
 - Can tell us about your experience in English. We will speak in English at the interview.
 - Know what components a Ruby on Rails application consists of and how they interact with each other.
