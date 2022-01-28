@@ -1,6 +1,6 @@
-# Middle/Senior Ruby Developer
+# Senior Ruby Developer
 
-We're looking for a pro-active middle/senior-level web developer with experience in Ruby and Ruby on Rails, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. Check out the [video](https://www.youtube.com/watch?v=kc1jcy00AJ0&feature=youtu.be) with Andrew (who is currently responsible for this role), where he tells about the project and role itself. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
+We're looking for a pro-active senior-level web developer with experience in Ruby and Ruby on Rails, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. Check out the [video](https://www.youtube.com/watch?v=kc1jcy00AJ0&feature=youtu.be) with Andrew (who is currently responsible for this role), where he tells about the project and role itself. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
 
 ## About the job
 
