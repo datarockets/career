@@ -7,7 +7,7 @@ We are looking for an experienced Node.js Developer to grow our team and develop
 
 - You will work with a team of developers (3-5 people) on the current project developing new features.
 - Usually, our projects last for about 1.5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time.
-- Salary 𝚫: 20k—48k USD gross.
+- Salary 𝚫: 3k-6k USD gross per month.
 - For development we usually use Kanban or similar processes in Trello, Pivotal or Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
 - Apart from working on projects, we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
 - You'll have colleagues all around the globe, variety of channels in Slack like #animal-therapy, #cooking, #ihateremotework and remote team spirit.
