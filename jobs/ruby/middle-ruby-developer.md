@@ -4,7 +4,7 @@ We're looking for a pro-active middle-level web developer with experience in Rub
 
 ## About the job
 
-- Salary 𝚫: 1000-3000USD, gross per month.
+- Salary: up to 3000USD, gross per month.
 - You will work with a team of developers (3-5 people) on the current project developing new features.
 - Usually, our projects last for about 1.5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time.
 - For development we usually use Kanban or similar process in Trello, Pivotal or Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
