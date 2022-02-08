@@ -1,10 +1,10 @@
-# Ruby Developer (Middle)
+# Ruby Developer (Junior)
 
-We're looking for a pro-active middle-level web developer with experience in Ruby and Ruby on Rails, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. <b> We are open to a person with ambitions to fill in the Team Lead role. </b>
+We're looking for a junior-level web developer with experience in Ruby and Ruby on Rails. We would love to work with a pro-active person, who not only solves tasks but suggests improvements on the codebase level as well as on product and company level, and who shares knowledge within the team on meetups and in chats. 
 
 ## About the job
 
-- Salary 𝚫: up to 4500USD, gross per month.
+- Salary: up to 1500USD, gross per month.
 - You will work with a team of developers (3-5 people) on the current project developing new features.
 - Usually, our projects last for about 1.5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time.
 - For development we usually use Kanban or similar process in Trello, Pivotal or Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
@@ -13,16 +13,15 @@ We're looking for a pro-active middle-level web developer with experience in Rub
 
 ## We expect that you
 
-- Good knowledge of Ruby: OOP, meta-programming, common patterns.
-- Advanced knowledge of Ruby on Rails: advanced ActiveRecord, CLI and generators, i18n, complex forms and controllers, security features.
-- Knowledge of architecture patterns: different ways to organize business logic, state machines, API versioning, background jobs, caching, authorization.
-- Experience with data modeling and working with databases.
-- Advanced knowledge in writing tests: experience writing different kind of tests, knowledge of good practices.
-- Experience working on multi-stack projects: knowledge of modern JavaScript and UI libraries.
-- Good knowledge of the stack we use: web, http protocol, networks.
-- Advanced level of working with tools: Linux, CLI tools, git.
-- Your English skills allow you to feel comfortable communicating in it (verbally and written) the whole working day.
-- You know how important it is to communicate with the team and inform others about what you are doing, so you stick to open and frequent communication.
+- Share our values ([en](https://datarockets.com/blog/company/datarockets-codex-core-values/), [ru](https://docs.google.com/document/d/1DojRoGnl-J0Ku0B9tjK_-HUMbKQDPoueoYr645dYA-4/edit)) – it's very important.
+- Have experience working on projects. You know approaches and patterns of writing maintainable code.
+- Can tell us about your experience in English. We will speak in English at the interview.
+- Know what components a Ruby on Rails application consists of and how they interact with each other.
+- Are able to work with the databases. You know the types of database table relationships.
+- Know why we need to write tests and how to write them in a proper way.
+- Know how the web and the HTTP protocol works.
+- You can develop in JavaScript.
+
 
 ## About us
 
