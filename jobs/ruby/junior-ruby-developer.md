@@ -23,7 +23,9 @@ We're looking for a junior-level web developer with experience in Ruby and Ruby 
 - You can develop in JavaScript.
 
 
-## About us
+## About us 
+
+Check out our [Career page](https://github.com/datarockets/career/).
 
 [![datarockets team](https://github.com/datarockets/career/blob/master/images/photo%20from%20New%20Year%20party.3.jpg)](https://www.instagram.com/datarockets/)
 
