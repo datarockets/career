@@ -29,7 +29,7 @@ Ask us anything — create an issue in this repository with your questions and w
 
 ### Remote
 
-🇧🇾 🇨🇦 🇵🇱 🇷🇺 🇲🇩 🇦🇲 🇰🇿 🇺🇿 🇬🇪 🇺🇦 🇦🇿 🇰🇬 ([add yours](#work-with-us))
+🇧🇾 🇨🇦 🇵🇱 🇷🇺 🇲🇩 🇦🇲 🇰🇿 🇺🇿 🇺🇦 🇦🇿 🇰🇬 ([add yours](#work-with-us))
 
 We work remotely. It's a common comment that it requires a lot of self-discipline to work remotely. We believe it is more about good processes and habits.
 
