@@ -37,7 +37,7 @@ See how datarockets company evolved.
 
 https://user-images.githubusercontent.com/87384373/158373637-1bd6e48b-1300-40c1-8aa6-34a49b3c136b.mp4
 
-Good processes is something we've been working on for the last five years. We moved our conversations to chats. We make calls for pair programming and discussing tasks in real time but always write a summary after the call.
+Good processes is something we've been working on for the last seven years. We moved our conversations to chats. We make calls for pair programming and discussing tasks in real time but always write a summary after the call.
 
 It's important to be pro-active and inform everyone about things you do and obstacles you have even if nobody asks.
 
