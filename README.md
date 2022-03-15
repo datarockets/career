@@ -13,8 +13,9 @@ We build products for our clients.
   * [Jobs](#jobs)
     * 🔥 [Ruby Developer (Middle)](jobs/ruby/middle-ruby-developer.md)
     * 🔥 [Ruby Developer (Junior)](jobs/ruby/junior-ruby-developer.md)
-    * 🔥 [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) 
-    * [Experienced Frontend Developer](jobs/experienced-frontend-developer.md) 
+    * 🔥 [Experienced Frontend Developer](jobs/experienced-frontend-developer.md) 
+    * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) 
+    
     <!--- * 🔥 [Sales & Account Manager](jobs/sales-account-manager.md) ---> 
     <!--- * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md) --->
     
@@ -32,6 +33,9 @@ Ask us anything — create an issue in this repository with your questions and w
 🇧🇾 🇨🇦 🇵🇱 🇷🇺 🇲🇩 🇦🇲 🇰🇿 🇺🇿 🇺🇦 🇦🇿 🇰🇬 ([add yours](#work-with-us))
 
 We work remotely. It's a common comment that it requires a lot of self-discipline to work remotely. We believe it is more about good processes and habits.
+See how datarockets company evolved.
+
+https://user-images.githubusercontent.com/87384373/158373637-1bd6e48b-1300-40c1-8aa6-34a49b3c136b.mp4
 
 Good processes is something we've been working on for the last five years. We moved our conversations to chats. We make calls for pair programming and discussing tasks in real time but always write a summary after the call.
 
@@ -40,6 +44,8 @@ It's important to be pro-active and inform everyone about things you do and obst
 We believe that it's much easier to work together when you know your teammates personally, not only their work skills. It is easier to ask someone for help quickly if you were discussing a recent movie premier just yesterday.
 
 ![datarockets check-in](images/check-in.png)
+
+
 In order to make people know each other better we have biweekly check-ins — an all hands one hour long call where we share what happened with us during the last week: last book we read, a new place we visited, family event we had. datarockers gather in small groups by interest like tech meetups or bookclub. You can find some of our activities on youtube, like [bookclub](https://www.youtube.com/playlist?list=PLXylrdLh4cnDxvdJigtYWqQvIW4yARbOX).
 
 Twice a year we organize a party and bring everyone to it. We spend time together and chat a lot. That's very interesting time since we have people from different cultures. You can learn how traditional wedding parties look like in Vietnam and how to cook lagman.
