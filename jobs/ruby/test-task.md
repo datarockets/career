@@ -24,3 +24,9 @@ Feel free to organize the code and build models and their relations as you want.
 
 # Advanced
 Cover your code with tests. This is not a mandatory requirement, but would be great plus
+
+# Doesn't sound fun?
+
+Instead of this task, you can send whatever other technical task you might have already done for other companies.
+The very purpose is to check not *what* you do but *how* you do it.
+If you'd like to send your solution for another company's task, don't forget to attach the description.
