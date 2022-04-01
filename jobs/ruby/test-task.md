@@ -1,3 +1,8 @@
+
+“Talk is cheap. Show me the code.”
+
+― Linus Torvalds 
+
 # Description
 Make a `create` action in `PostController < ApplicationController` controller that creates a post.
 The action should send an email to the user notifying them that the post was created.
