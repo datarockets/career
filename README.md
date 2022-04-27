@@ -14,10 +14,11 @@ We build products for our clients.
     * 🔥 [Ruby Developer (Middle)](jobs/ruby/middle-ruby-developer.md)
     * 🔥 [Ruby Developer (Junior)](jobs/ruby/junior-ruby-developer.md)
     * 🔥 [Experienced Frontend Developer](jobs/experienced-frontend-developer.md) 
-    * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) 
+    * [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
+    <!--- * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) --->
     
     <!--- * 🔥 [Sales & Account Manager](jobs/sales-account-manager.md) ---> 
-    <!--- * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md) --->
+    
     
   * [Apprenticeship](#apprenticeship)
   * [Interview Process](#interview-process)
