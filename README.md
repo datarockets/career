@@ -11,9 +11,9 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-    * 🔥 [Experienced Frontend Developer](jobs/frontend/experienced-frontend-developer.md) 
-    * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)
-    * [Ruby Developer (Middle)](jobs/ruby/middle-ruby-developer.md)
+    * [Experienced Frontend Developer](jobs/frontend/experienced-frontend-developer.md) 
+    <!--- * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md) --->
+    <!--- * [Ruby Developer (Middle)](jobs/ruby/middle-ruby-developer.md) --->
     <!--- * [Ruby Developer (Junior)](jobs/ruby/junior-ruby-developer.md) --->
     <!--- * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) --->
     
