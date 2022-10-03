@@ -11,15 +11,7 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-    * [Experienced Frontend Developer](jobs/frontend/experienced-frontend-developer.md) 
-    <!--- * 🔥 [Mobile Developer (Android/iOS)](jobs/mobile-developer.md) --->
-    <!--- * [Ruby Developer (Middle)](jobs/ruby/middle-ruby-developer.md) --->
-    <!--- * [Ruby Developer (Junior)](jobs/ruby/junior-ruby-developer.md) --->
-    <!--- * [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) --->
-    
-    <!--- * 🔥 [Sales & Account Manager](jobs/sales-account-manager.md) ---> 
-    
-    
+    * [Senior Frontend Developer](jobs/frontend/senior-frontend-developer.md) 
   * [Apprenticeship](#apprenticeship)
   * [Interview Process](#interview-process)
   * [FAQ](#FAQ)
@@ -83,12 +75,7 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 
 ### Jobs
 
-- [Experienced Frontend Developer](jobs/frontend/experienced-frontend-developer.md)
-- [Ruby Developer (Junior)](jobs/ruby/junior-ruby-developer.md)
-- [Ruby Developer (Middle)](jobs/ruby/middle-ruby-developer.md)
-- [Experienced Node.js Developer](jobs/experienced-nodejs-developer.md) 
- <!--- [Mobile Developer (Android/iOS)](jobs/mobile-developer.md)---> 
- 
+- [Senior Frontend Developer](jobs/frontend/senior-frontend-developer.md)
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
