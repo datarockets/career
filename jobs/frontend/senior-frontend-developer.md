@@ -46,10 +46,13 @@ We build mobile and web apps for our clients. See [case studies](https://dataroc
 
 ## How to apply 💌
 
-In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV. In the message tell us about you and your experience, share some examples of your code. Also, we are curious about your thoughts on the questions below, please, add your answers to the cover letter. 
+“Talk is cheap. Show me the code.” ― Linus Torvalds
 
-- How do you organize business logic in your app?
-- What would you do if you suspect that a gem doesn't work as you expected? How would you debug this?
-- How do you deploy your apps? What experience do you have with infrastructure?
+In order to better determine your current level and therefore increase your chances, we need to see your codes. If you already have some open-source projects that shows your competence then you can send them to us. Alternatevely, you can complete a [test task](./test-task.md). You might be even more interesting in that because completing the test task is a good way to add one more project to your portfolio and improve your skills.
+
+Send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV and examples of your code. Also we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
+
+1. How do you organize storing data on frontend? What are pros and cons of your approach?
+2. What makes a good user experience in your opinion, what is important?
 
 Check out our [interview process](https://github.com/datarockets/career#interview-process) for more information.
