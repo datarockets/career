@@ -50,7 +50,7 @@ We build mobile and web apps for our clients. See [case studies](https://dataroc
 
 In order to better determine your current level and therefore increase your chances, we need to see your code. If you already have some open-source projects that shows your competence then you can send them to us. Alternatively, you can complete a [test task](./test-task.md). You might be even more interested in that because completing the test task is a good way to add one more project to your portfolio and improve your skills.
 
-Send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV and examples of your code. Also we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
+Send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV and examples of your code. Also, we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
 
 1. How do you organize storing data on frontend? What are pros and cons of your approach?
 2. What makes a good user experience in your opinion, what is important?
