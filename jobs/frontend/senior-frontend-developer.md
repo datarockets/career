@@ -13,13 +13,14 @@ We're looking for a pro-active senior-level frontend developer, who not only sol
 
 ## We expect that you
 
-- Share our values ([en](https://datarockets.com/blog/company/datarockets-codex-core-values/), [ru](https://docs.google.com/document/d/1DojRoGnl-J0Ku0B9tjK_-HUMbKQDPoueoYr645dYA-4/edit)) – it's very important
-- Can design a whole system of application
-- Have experience working with different kind of teams and projects
-- Research new technologies and promote them inside the team (new libraries, tools, techniques: refactoring, debugging, etc.)
-- Will constantly suggest innovations on the project
-- It will be a plus if you released own projects
-- Understand yourself: have good habits, know how to be productive and how to rest
+- Share our values ([en](https://datarockets.com/blog/company/datarockets-codex-core-values/), [ru](https://docs.google.com/document/d/1DojRoGnl-J0Ku0B9tjK_-HUMbKQDPoueoYr645dYA-4/edit)) – it's very important.
+- Can design a whole system of application.
+- Knows at least one library/framework for building UI at advanced level (React, Vue, Angular, etc.).
+- Have experience working with different kind of teams and projects.
+- Research new technologies and promote them inside the team (new libraries, tools, techniques: refactoring, debugging, etc.).
+- Will constantly suggest innovations on the project.
+- It will be a plus if you released own projects.
+- Understand yourself: have good habits, know how to be productive and how to rest.
 - Have knowledge of English on the level which allows you to feel comfortable communicating in it (verbally and written) the whole working day.
 - Know how important it is to communicate with the team and inform others about what you are doing, so you stick to open and frequent communication. It is important for us.
 
