@@ -7,7 +7,7 @@ We're looking for a pro-active senior-level frontend developer, who not only sol
 - Salary: up to 5000USD, gross per month.
 - You will work with a team of developers (3-5 people) on the current project developing new features.
 - Usually, our projects last for about 1.5-2 years (but it could be more/less). Our developers don't work on more than 1 project at a time.
-- For development we usually use Kanban or similar process in Trello, Pivotal or Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
+- For development, we usually use Kanban or similar processes, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
 - Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
 - You'll have colleagues all around the globe, variety of channels in Slack like #animal-therapy, #cooking, #ihateremotework and remote team spirit.
 
