@@ -47,9 +47,6 @@ We build mobile and web apps for our clients. See [case studies](https://dataroc
 
 In order to apply you need to complete a [test task](./test-task.md). If you already have some open-source projects that shows your competence then you can send us them. Please note that completing the test task is more preferable because it makes it easier for us to determine your current level. Completing the test task is a good way to add one more project to your portfolio and improve your skills.
 
-Send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV and examples of your code. Also we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
-
-1. How do you organize storing data on frontend? What are pros and cons of your approach?
-2. What makes a good user experience in your opinion, what is important?
+Send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV and examples of your code. Also we are curious about your thoughts on the following question, please, add your answer to the cover letter: what makes a good user experience in your opinion, what is important?
 
 Check out our [interview process](https://github.com/datarockets/career#interview-process) for more information.
