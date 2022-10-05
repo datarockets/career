@@ -48,7 +48,7 @@ We build mobile and web apps for our clients. See [case studies](https://dataroc
 
 “Talk is cheap. Show me the code.” ― Linus Torvalds
 
-In order to better determine your current level and therefore increase your chances, we need to see your codes. If you already have some open-source projects that shows your competence then you can send them to us. Alternatevely, you can complete a [test task](./test-task.md). You might be even more interesting in that because completing the test task is a good way to add one more project to your portfolio and improve your skills.
+In order to better determine your current level and therefore increase your chances, we need to see your code. If you already have some open-source projects that shows your competence then you can send them to us. Alternatively, you can complete a [test task](./test-task.md). You might be even more interested in that because completing the test task is a good way to add one more project to your portfolio and improve your skills.
 
 Send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV and examples of your code. Also we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
 
