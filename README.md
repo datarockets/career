@@ -75,7 +75,6 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 
 ### Jobs
 
-- [Senior Frontend Developer](jobs/frontend/senior-frontend-developer.md)
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
