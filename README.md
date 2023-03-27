@@ -11,7 +11,6 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-    * [Senior Frontend Developer](jobs/frontend/senior-frontend-developer.md) 
   * [Apprenticeship](#apprenticeship)
   * [Interview Process](#interview-process)
   * [FAQ](#FAQ)
