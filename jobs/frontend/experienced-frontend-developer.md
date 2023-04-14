@@ -1,4 +1,4 @@
-# Experienced Frontend Developer
+# Middle Frontend Developer
 
 We seek a middle-level frontend developer to grow our team. We want to work with someone who communicates openly and actively, explores technologies (a11y, performance optimization, PWA) and looks for better ways to improve user experience and solve problems.
 
