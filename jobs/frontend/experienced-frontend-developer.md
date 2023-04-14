@@ -6,7 +6,7 @@ We seek a middle-level frontend developer to grow our team. We want to work with
 
 - We are not looking for a developer for some specific project, rather than a person to join our company and then we will form a team for future or current projects.
 - You might work with our internal projects at first.
-- Salary 𝚫: up to 3000 USD/month.
+- Salary 𝚫: up to 3000USD, gross per month.
 - For client projects, we work in teams of 2-5 developers.
 - For development we usually use Kanban or similar processes in Trello, Pivotal of Jira, communicate in Slack channels and via Zoom calls, and store documentation in Notion. We also use Holacracy for organizational governance.
 - Apart from working on projects we will encourage you to gain and share knowledge, discuss your personal development and contribute to company's activities.
