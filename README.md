@@ -75,10 +75,9 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 ### Jobs
 
 - [Middle Ruby developer](https://github.com/datarockets/career/blob/master/jobs/ruby/middle-ruby-developer.md)
-- [Senior Ruby developer](https://github.com/datarockets/career/blob/master/jobs/ruby/senior-ruby-developer.md)
 - [Senior Front-End developer](https://github.com/datarockets/career/blob/master/jobs/frontend/senior-frontend-developer.md)
 <!-- [Middle Front-End developer](https://github.com/datarockets/career/blob/master/jobs/frontend/experienced-frontend-developer.md) -->
-
+<!-- [Senior Ruby developer](https://github.com/datarockets/career/blob/master/jobs/ruby/senior-ruby-developer.md) -->
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
