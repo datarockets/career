@@ -74,7 +74,7 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 
 ### Jobs
 
-- [Senior Front-End developer](https://github.com/datarockets/career/blob/master/jobs/frontend/senior-frontend-developer.md)
+<!-- [Senior Front-End developer](https://github.com/datarockets/career/blob/master/jobs/frontend/senior-frontend-developer.md) -->
 <!-- [Middle Ruby developer](https://github.com/datarockets/career/blob/master/jobs/ruby/middle-ruby-developer.md) -->
 <!-- [Middle Front-End developer](https://github.com/datarockets/career/blob/master/jobs/frontend/experienced-frontend-developer.md) -->
 <!-- [Senior Ruby developer](https://github.com/datarockets/career/blob/master/jobs/ruby/senior-ruby-developer.md) -->
