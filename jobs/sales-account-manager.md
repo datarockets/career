@@ -4,14 +4,19 @@ A software development company datarockets is looking for an experienced technic
 
 **Salary**: 2k-4k USD gross per month, based on the results of the interview.
 
-## What you will do:
+## What will you do:
 
-- Work with all incoming leads: track them in the CRM, validate prospective clients and bring them through the pipeline.
-- Communicate clients’ needs and demands, compare them with company interests, and carry on negotiations with the appealing projects.
-- Work together with the dev team and product managers to prepare estimates & proposals for leads, demonstrate them to clients, and answer the questions.
-- Manage documentation: sign agreements, NDAs, send invoices.
-- Networking & Generating leads - network with contacts from Pipedrive CRM, generate leads in social media and Upwork. It's not a priority for us now, but it might be in the future. 
-- *For the future after growing to an Account Manager: be the main point of contact for signed clients, negotiate hourly rates, and identify opportunities to grow business with existing clients.*
+- Conduct full sales cycle from lead generation to building strong relationships with leads even after a project is signed.
+- Grow the network through cold and warm lead generation channels (emails, Upwork, LinkedIn, internal CRM). Work with inbound leads.
+- Look for new ways of lead generation and contribute to improving sales processes. 
+- Track leads and deals on Pipedrive CRM, tasks on Trello, and communicate proactively on Slack. 
+- Negotiate business and technical requirements. Analyze and understand product development, dive into the client’s business processes, internal operations, and technical challenges, and communicate them on a deep level. 
+- Work together with the dev team and product managers to prepare estimates & proposals for leads.
+- Manage documents: sign agreements, NDAs. 
+- Most of our clients are located in North America, and you should be ready to have calls in their time zone. 
+- In your work, you must be able to communicate project requirements and draw the expectations about the development process on your own, apart from relying on the expertise of your technical colleagues. 
+- You will work in a team with another Sales Specialist and the Head of Business Relationships & Marketing.
+
 
 ## What skills do you need to have:
 
