@@ -53,6 +53,7 @@ Check out our resources for more information:
 
 ## How to apply 💌
 
-To apply, please, send us an email to [join@datarockets.com](mailto:join@datarockets.com) with your CV.  As an option, you can send your application via our [Career page](https://datarockets.com/career/) on a website.
+To apply, please, send us an email to [join@datarockets.com](mailto:join@datarockets.com) with your CV.  
+As an option, you can send your application via our [Career page](https://datarockets.com/career/) on a website.
 
 Due to a big number of applications, the answer may take up to one week.
