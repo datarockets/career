@@ -1,8 +1,8 @@
-#  Sales & Account Manager
+#  Experienced Technical Sales Specialist
 
-A remote software development company datarockets seeks an analytical thinking Sales & Account Manager with excellent communication skills in order to build trust with our prospective clients and lead them through all stages of the deal-making process. 
+A software development company datarockets is looking for an experienced technical sales specialist with an exceptional communication skills, proactive attitude to work, and analytical way of thinking. 
 
-Your goal will be to define the projects our team will love working with and where we can bring as much value as possible, and turn them into our clients. We expect you to grow into an Account Manager later and build strong relationships with clients during the whole client cycle.
+**Salary**: 2k-4k USD gross per month, based on the results of the interview.
 
 ## What you will do:
 
