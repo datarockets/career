@@ -27,14 +27,12 @@ A software development company datarockets is looking for an experienced technic
  
 
 
-## What you’ll get:
+## What do we offer:
 
-- Salary: 1500$-3000$ per month gross
-- An environment of a remote-driven culture and the opportunity to work from wherever you want.
-- Continuous knowledge exchange and virtual hangouts with colleagues.
-- Opportunity to grow to an Account Manager.
-- 50% compensation for self-development activities: courses, conferences, books, educational platforms, English, sports.
-- 32 paid days off per year - you can use them for vacations, occasional days off, and public holidays. Only workdays count.
+- Detailed sales documentation on Notion and transparent work culture. 
+- 50% compensation for self-development activities: courses, conferences, books, educational platforms, English, and sports.
+- Remote work and flexible schedule.
+- 32 paid days off per year – you can use them for vacations, occasional days off, and public holidays, only workdays count.
 - Full coverage of sick leaves.
 - 200 USD per year for medical expenses.
 - 500 USD per year for home office equipment.
@@ -43,15 +41,18 @@ A software development company datarockets is looking for an experienced technic
 
 [![datarockets team](https://github.com/datarockets/career/blob/master/images/photo%20from%20New%20Year%20party.3.jpg)](https://www.instagram.com/datarockets/)
 
-We are a [Holacracy](https://en.wikipedia.org/wiki/Holacracy)-driven [#remote](https://github.com/datarockets/career#remote) software development company with transparent processes. At datarockets, the medium project duration is 12 months. With most of the clients, we work for years. It means that our main sales goal is not to sign as many contracts as possible (we sign 3-7 new projects a year) but to show our real expertise and build trusting relationships that end up with long-term partnerships.
 
-See [case studies](https://datarockets.com/case-studies/) to learn more about the types of projects we work with. Check out our [#Career page](https://github.com/datarockets/career) to find out how we work, and the [#Company Codex](https://github.com/datarockets/career#work-as-a-team-with-clients) to see if we share the same values  ;)
+datarockets is a [remote](https://github.com/datarockets/career#remote) software development company focusing on setting up transparent and honest processes with the team and clients. We adore flexibility, freedom and independence, so we have no micromanagement and draining bureaucracy. 
+At datarockets, the medium project duration is 12 months. With most of the clients, we work for years. It means that our main sales goal is not to sign as many contracts as possible (we sign 3-6 new projects a year) but to show our real expertise and build trusting relationships that end up with long-term partnerships.
+
+Check out our resources for more information:
+
+- [Case studies](https://datarockets.com/case-studies/) to learn more about the types of projects we work with.
+- [Company Codex](https://github.com/datarockets/career#work-as-a-team-with-clients) to see if we share the same values.
+- [Career page](https://datarockets.com/career/) to learn more about our culture and processes.
 
 ## How to apply 💌
 
-In order to apply send us a message to [join@datarockets.com](mailto:join@datarockets.com) with your CV.  Also, we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
-- Why do you fit this job?
-- What is the biggest challenge of building trusting relationships with clients remotely? What is your experience in it?
-- What things do you consider as most important while presenting the company to a client?
+To apply, please, send us an email to [join@datarockets.com](mailto:join@datarockets.com) with your CV.  As an option, you can send your application via our [Career page](https://datarockets.com/career/) on a website.
 
-Due to a big number of applications, we leave a right for us to not consider applications without answers to our questions.
+Due to a big number of applications, the answer may take up to one week.
