@@ -18,14 +18,13 @@ A software development company datarockets is looking for an experienced technic
 - You will work in a team with another Sales Specialist and the Head of Business Relationships & Marketing.
 
 
-## What skills do you need to have:
+## What qualities do we expect you to have:
 
-- Speak English fluently. All the verbal and written communication with clients happens in English only.
-- Have a background in the IT industry (at least 1 year): understand how startups are building, and projects are being developed. 
-- Be able to lead a confident conversation with C-level contacts, clearly express your thoughts, negotiate big contracts, and have the real cases of using these skills in your work experience.
-- Be able to analyze and understand different development requests, their business ideas, goals, and problems.
-- Have networking, relationships building and developing skills.
-- Superb interpersonal skills, including a proactive attitude, teamwork, and honesty. 
+- 3+ years of experience in IT sales and marketing. 
+- Good understanding of the software development and startup industry. 
+- Strong conversational English (Advanced level) and writing skills.
+- Experience in closing long-term contracts (starting from 3+ months) with tech startups and established businesses.
+ 
 
 
 ## What you’ll get:
