@@ -54,7 +54,12 @@ Check out our resources for more information:
 
 ## How to apply 💌
 
-To apply, please, send us an email to [join@datarockets.com](mailto:join@datarockets.com) with your CV.  
-As an option, you can send your application via our [Career page](https://datarockets.com/career/) on a website.
+To apply, please, send us an email to [join@datarockets.com](mailto:join@datarockets.com) with your CV. 
+As an option, you can send your application via our [Career page](https://datarockets.com/career/) on a website. 
 
-Due to a big number of applications, the answer may take up to one week.
+Also, we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
+
+- What is your experience in IT sales? What markets, technologies and industries have you worked with? 
+- Please, describe one approach you changed in your sales tactic in conditions of a declining market of IT outsourcing/outstaffing.
+
+Due to a big number of applications, we leave a right for us not to consider applications without answers to our questions. Please, note that the time of receiving a reply email may increase to one week.
