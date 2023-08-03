@@ -5,6 +5,8 @@ Among our clients: YC-backed startups, Individual Entrepreneurs, Mid-sized compa
 
 We would like to work with a proactive person who will bring fresh ideas to our existing processes and strategies, will be data-driven, and passionate about working on the frontier of sales & marketing.
 
+**Salary**: 2k-4k USD gross per month, based on the results of the interview.
+
 
 ## What will you do:
 - Help the sales team drive leads and website traffic via established channels (directories, social media, SEO).
