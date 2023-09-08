@@ -13,8 +13,11 @@ We’re looking for a new teammate who's primary goal will be to turn business p
 - Interest in AI tools. We see a lot of AI tools that reduce design costs. Given the startup specifics of our customers and the Lean methodology we are trying to launch our products on, we need simplicity and speed. Someone who wouldn't spend days drawing graphics or logos or creating branding, but instead would use tools that would do it for them.
 
 
-## What do we offer:
-- Transparent work culture.
+## What you'll get
+- Salary: 1.5k-2.5k USD gross per month.
+- An environment of a remote-driven culture and the opportunity to work from wherever you want.
+- Continuous knowledge exchange and virtual hangouts with colleagues.
+- Opportunity to grow to a Design Director.
 - 50% compensation for self-development activities: courses, conferences, books, educational platforms, English, and sports.
 - Remote work and flexible schedule.
 - 32 paid days off per year – you can use them for vacations, occasional days off, and public holidays, only workdays count.
