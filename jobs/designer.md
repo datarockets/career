@@ -2,8 +2,6 @@
 
 We’re looking for a new teammate who's primary goal will be to turn business problems of our clients into UI/UX-based solutions. In addition to that, we have a plenty of internal design challenges in different areas (own products, marketing, sales) and we need someone who would be ready to pro-actively take over them.
 
-**Salary:** 2k-3k USD gross per month.
-
 
 ## What we’d like from you
 - Proactivity. We need someone who communicates proactively and asks questions. We expect that you will be involved in different areas (projects, sales, products) and will take the initiative.
@@ -32,6 +30,7 @@ We’re looking for a new teammate who's primary goal will be to turn business p
 
 
 datarockets is a [remote](https://github.com/datarockets/career#remote) software development company focusing on setting up transparent and honest processes with the team and clients. We adore flexibility, freedom and independence, so we have no micromanagement and draining bureaucracy. 
+
 At datarockets, the medium project duration is 12 months. With most of the clients, we work for years. Being a relatively small company, we have the freedom to pick the projects that we feel most passionate about, which benefits both our clients and us. We have experience building apps serving a variety of industries, such as FinTech, IoT, Health & Fitness, e-commerce, and many more. Among our clients: YC-backed startups, Individual Entrepreneurs, Mid-sized companies, Public Institutions, and Series E startups.
 
 Check out our resources for more information:
@@ -43,12 +42,8 @@ Check out our resources for more information:
 
 ## How to apply 💌
 
-To apply, please, send us an email to [join@datarockets.com](mailto:join@datarockets.com) with your CV. 
+To apply, please, send us an email to [join@datarockets.com](mailto:join@datarockets.com) with your CV. Also, we are curious about your experience, so, please, attach the link to your portfolio.
 As an option, you can send your application via our [Career page](https://datarockets.com/career/) on a website. 
 
-Also, we are curious about your thoughts on the questions below, please, add your answers to the cover letter.
-
-- ???
-- ???
 
 Due to a big number of applications, we leave a right for us not to consider applications without answers to our questions. Please, note that the time of receiving a reply email may increase to one-two week.
