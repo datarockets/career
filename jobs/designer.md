@@ -5,25 +5,12 @@ We’re looking for a new teammate who's primary goal will be to turn business p
 **Salary:** 2k-3k USD gross per month.
 
 
-## What will you do:
-- Design user-friendly interface for clients’ web and mobile applications.
-- Build UX part of the apps on the basis of the existing design system.
-- Create the whole design system for the internal products by a demand using AI tools.
-- Help other teams with design-related tasks: design website pages, edit photos’ size and shape, etc.
-- Manage and coach the design team.
-
-
-## What qualities do we expect you to have:
-- High level of expertise in UX.
-- Independency and ability to work without teammate’s guidance. We’re starting to build our design team, so some time you’ll work as a single designer in the department.
-- Fluency in English (writing and speaking) for daily use.
-- Understanding of the principles of building and managing the team.
-- Proactivity: ability to see points for improvement and initiativeness in proposing changes.
-- Versatileness: you’ll work on the client’s project, but sometimes we can ask you to help the team with internal tasks.
-- Interest in working with AI tools.
-
-## Would be a plus:
-- Knowledge of UI Kit, React, HTML.
+## What we’d like from you
+- Proactivity. We need someone who communicates proactively and asks questions. We expect that you will be involved in different areas (projects, sales, products) and will take the initiative.
+- English. At this role, you will work on client projects and communicate directly. Also, you will be involved into sales process which requires a high level of English to sell design expertise.
+- Expertise in UX first and foremost. We will not do large design projects with custom graphics, for example. We're looking for a person who can take a ready-made design system and within it quickly build a UX for a web site or a custom app.
+- Independence. We will have the only designer on our team for a while and we can't give them guidance in their career. We need someone who will not burn out on it, but will find interesting ways of development for themselves in our company.
+- Interest in AI tools. We see a lot of AI tools that reduce design costs. Given the startup specifics of our customers and the Lean methodology we are trying to launch our products on, we need simplicity and speed. Someone who wouldn't spend days drawing graphics or logos or creating branding, but instead would use tools that would do it for them.
 
 
 ## What do we offer:
