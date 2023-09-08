@@ -1,6 +1,6 @@
 # UI/UX Designer
 
-We’re looking for an experienced and proactive UI/UX Designer who is not afraid of independent work and interested in discovering and learning new design tools. The job implies growing into a Design Team Lead.
+We’re looking for a new teammate who's primary goal will be to turn business problems of our clients into UI/UX-based solutions. In addition to that, we have a plenty of internal design challenges in different areas (own products, marketing, sales) and we need someone who would be ready to pro-actively take over them.
 
 **Salary:** 2k-3k USD gross per month.
 
