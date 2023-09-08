@@ -37,7 +37,7 @@ At datarockets, the medium project duration is 12 months. With most of the clien
 Check out our resources for more information:
 
 - [Case studies](https://datarockets.com/case-studies/) to learn more about the types of projects we work with.
-- [Company Codex](https://github.com/datarockets/career#work-as-a-team-with-clients) to see if we share the same values.
+- [Company Codex](https://datarockets.com/blog/company/datarockets-codex-core-values/) to see if we share the same values.
 - [Career page](https://datarockets.com/career/) to learn more about our culture and processes.
 
 
