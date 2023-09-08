@@ -74,13 +74,7 @@ We work with clients for years. See [case studies](https://datarockets.com/case-
 
 ### Jobs
 
-- [Marketing & Sales Lead Generation Specialist](https://github.com/datarockets/career/blob/master/jobs/marketing-sales-specialist.md)
-<!-- [Experienced Technical Sales Specialist](https://github.com/datarockets/career/blob/master/jobs/experienced-sales-specialist.md) -->
-<!-- [Senior Front-End developer](https://github.com/datarockets/career/blob/master/jobs/frontend/senior-frontend-developer.md) -->
-<!-- [Middle Ruby developer](https://github.com/datarockets/career/blob/master/jobs/ruby/middle-ruby-developer.md) -->
-<!-- [Middle Front-End developer](https://github.com/datarockets/career/blob/master/jobs/frontend/experienced-frontend-developer.md) -->
-<!-- [Senior Ruby developer](https://github.com/datarockets/career/blob/master/jobs/ruby/senior-ruby-developer.md) -->
-
+Here is the place where you can explore all our current openings – [Vacancies](https://www.notion.so/datarockets-team/Vacancies-975b1894998a40c2b494c000bd2e1331?pvs=4).
 
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
