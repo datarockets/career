@@ -11,7 +11,6 @@ We build products for our clients.
 * [Our Clients](#our-clients)
 * [Work With Us](#work-with-us)
   * [Jobs](#jobs)
-  * [Apprenticeship](#apprenticeship)
   * [Interview Process](#interview-process)
   * [FAQ](#FAQ)
   
@@ -79,10 +78,6 @@ Here is the place where you can explore all our current openings – [Vacancies]
 Sometimes we don't have open job positions but it's still worth to get in contact with us if you're interested in working with us.
 
 Email us on [join@datarockets.com](mailto:join@datarockets.com). Write us about your experience in development, show examples of your code. Tell us what you would like to see in a company you'd love to work at, what is important for you.
-
-### Apprenticeship
-
-At datarockets we're happy to work with junior and intern developers. Please check [Apprenticeship](apprenticeship.md) to find more details and see how you can work with us if you are a junior.
 
 ## Interview Process
 
